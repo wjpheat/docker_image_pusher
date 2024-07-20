@@ -1,2 +1,3 @@
 eipwork/kuboard:v3
 redis
+rancher/mirrored-coredns-coredns:1.9.4
