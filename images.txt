@@ -1,6 +1,6 @@
 eipwork/kuboard:v3
 redis
 rancher/mirrored-coredns-coredns:1.9.4
-grafana/loki:latest
+grafana/loki:3.1.1
 grafana/promtail
 grafana/grafana
