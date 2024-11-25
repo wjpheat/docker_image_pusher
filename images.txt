@@ -4,3 +4,4 @@ rancher/mirrored-coredns-coredns:1.9.4
 grafana/loki:3.1.1
 grafana/promtail
 grafana/grafana
+linzeyi/hivision_idphotos
