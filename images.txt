@@ -6,3 +6,6 @@ grafana/promtail
 grafana/grafana
 linzeyi/hivision_idphotos
 mingsoft/mcms
+postgres:15
+victoriametrics/victoria-metrics:v1.95.1
+apache/hertzbeat
