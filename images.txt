@@ -9,3 +9,4 @@ mingsoft/mcms
 postgres:15
 victoriametrics/victoria-metrics:v1.95.1
 apache/hertzbeat
+rancher/mirrored-coredns-coredns:1.9.4
