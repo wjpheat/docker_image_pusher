@@ -10,3 +10,4 @@ postgres:15
 victoriametrics/victoria-metrics:v1.95.1
 apache/hertzbeat
 rancher/mirrored-coredns-coredns:1.9.4
+cnrancher/autok3s:v0.9.3
