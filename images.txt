@@ -1,13 +1,1 @@
-eipwork/kuboard:v3
-redis
-rancher/mirrored-coredns-coredns:1.9.4
-grafana/loki:3.1.1
-grafana/promtail
-grafana/grafana
-linzeyi/hivision_idphotos
-mingsoft/mcms
-postgres:15
-victoriametrics/victoria-metrics:v1.95.1
-apache/hertzbeat
-rancher/mirrored-coredns-coredns:1.9.4
 cnrancher/autok3s:v0.9.3
