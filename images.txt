@@ -6,3 +6,4 @@ rancher/mirrored-pause:3.6
 minio/minio:latest
 eipwork/nfs-subdir-external-provisioner:v4.0.2
 rancher/mirrored-library-traefik:3.5.1
+traefik/whoami:v1.10.1
