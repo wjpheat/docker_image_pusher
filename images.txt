@@ -9,3 +9,4 @@ rancher/mirrored-library-traefik:3.5.1
 traefik/whoami:v1.10.1
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/loki:2.7.1
 nginx:alpine
+jc21/nginx-proxy-manager:latest
